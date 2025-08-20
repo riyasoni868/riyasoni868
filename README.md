@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋 I'm a Full Stack Developer
 
-<!--
-**riyasoni868/riyasoni868** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year BCA Student  
+💻 Skilled in **React**, **Node.js**, **MongoDB**, **JavaScript**, **HTML/CSS**  
+🚀 Passionate about building full-stack web applications and solving real-world problems  
+📚 Always learning and exploring new technologies  
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- Frontend: React.js, HTML, CSS, JavaScript
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Tools: Git, GitHub, VS Code, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/riya-soni-59016b371)  
+🌐 Portfolio coming soon...
+
+
