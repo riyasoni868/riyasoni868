@@ -11,7 +11,7 @@
 - Database: MongoDB
 - Tools: Git, GitHub, VS Code, Postman
 
-📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/riya-soni-59016b371)  
+📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/riyasoni8/)  
 🌐 Portfolio coming soon...
 
 
